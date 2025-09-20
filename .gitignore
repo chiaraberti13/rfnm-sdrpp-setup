@@ -1,0 +1,21 @@
+# Build folders
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.ninja
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.log
+*.cache/
+*.user
+*.swp
+.DS_Store
+.idea/
+.vscode/
