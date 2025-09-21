@@ -36,4 +36,6 @@ By running the script, you will automatically clone the official repositories, b
 This project uses the following official repositories:
 
 - [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)  
-- [RFNM driver](https://github.com/rfnm-labs/rfnm-driver)  
+- [RFNM driver](https://github.com/rfnm/librfnm)  
+
+
